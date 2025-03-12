@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Binod Dongoriya!<br>I'm a passionate Android Developer and Content Creator, always eager to learn and build amazing things.<br><br>🚀 What I Do<br>📱 Android Development – Learning Android Studio with Java<br>🌐 Web Development – Working with WordPress & WooCommerce<br>🎨 AI Image Generation – Exploring Midjourney<br>🎥 Content Creation – Producing massage-related videos for YouTube Shorts & TikTok
+👋 Hi, I'm Binod Dongoriya!<br>I'm a passionate Android Developer and Content Creator, always eager to learn and build amazing things.<br><br>🚀 What I Do<br>📱 Android Development – Learning Android Studio with Java<br>🌐 Web Development – Working with WordPress & WooCommerce<br>🎨 AI Image Generation<br>🎥 Content Creation – Producing YouTube Shorts & TikTok
 
 
 # 💻 Tech Stack:
